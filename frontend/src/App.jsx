@@ -10,7 +10,7 @@ import MoodDashboard from "./components/MoodDashboard";
 import MoodInput from "./components/MoodInput";
 import axios from "axios";
 import ProfessionalLogin from "./pages/ProfessionalLogin";
-// import ChatbotComponent from "./components/ChatBot/ChatbotComponent";
+import ChatbotComponent from "./components/ChatBot/ChatbotComponent";
 import Moody from "./components/Moody";
 import DoctorsDashboard from "./components/DoctorsDashboard";
 import Wellness from "./components/Wellness";
