@@ -7,7 +7,7 @@ import { getAuth, onAuthStateChanged, signOut } from "firebase/auth";
 import RegisterPage from "./pages/Register";
 import LoginPage from "./pages/Login";
 import MoodDashboard from "./components/MoodDashboard";
-import MoodInput from "./components/Moodinput";
+import MoodInput from "./components/MoodInput";
 import axios from "axios";
 import ProfessionalLogin from "./pages/ProfessionalLogin";
 import ChatbotComponent from "./components/ChatBot/ChatbotComponent";
